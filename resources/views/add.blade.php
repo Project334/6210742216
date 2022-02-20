@@ -1,6 +1,5 @@
 <?php
-// Hello Kampu123
-// Hello I'm James
+
 ?>
 <x-app-layout> 
     <x-slot name="header">
@@ -16,7 +15,7 @@
 
     <div class="py-12">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
-            <div style="background-color:#FFEEAD;" class=" overflow-hidden shadow-xl sm:rounded-lg p-5">
+            <div style="background-color:#ADD8E6;" class=" overflow-hidden shadow-xl sm:rounded-lg p-5">
             
                 <form method="POST" action="/task">
 
@@ -31,7 +30,7 @@
                     <div class="form-group">
                         <button type="submit" style="
                         
-                        color:#D9534F;
+                        color:black;
                         border-radius:10px;
                         margin-top: 20px;
                         margin-left:10px;
@@ -46,7 +45,8 @@
                         font-weight: 1000;
                         font-size:20px;
                         text-shadow: 1px 1px 1px #FFFFFF;
-                        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);" class="bg-yellow-400">Add Comment</button>
+                        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+                        background-color:#DCDCDC;">Add Comment</button>
                     </div>
                     {{ csrf_field() }}
                 </form>

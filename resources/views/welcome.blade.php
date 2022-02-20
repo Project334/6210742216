@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Portfolio</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -18,7 +18,7 @@
             body {
                 font-family: 'Courier New', monospace;
                 background-size: 100%;
-                background: linear-gradient(to bottom, #FFAD60 0%,#D9534F 100%);
+                background: linear-gradient(to bottom,#DCDCDC 0%,#6495ED 100%);
                 min-height: 100%;    
             }
         </style>
@@ -26,17 +26,15 @@
     <body class="antialiased">
         <div class="relative flex items-top justify-center min-h-screen  sm:items-center sm:pt-0">
             @if (Route::has('login'))
-                <div >
+                <div style="align-items:center" >
                     <!--<img src = "todolist.jpg">-->
-                    <img src="https://media.baamboozle.com/uploads/images/291632/1619760072_114659_gif-url.gif" width="280" height="280" style="margin-left:40px;">
+                    <img src="https://static.wixstatic.com/media/1ead07_8176954813a14895b056e6834b7bd253~mv2.gif" width="400" height="280">
                     <br>
-                    <br>
-                    
-                    
+
                     @auth
                         <a href="{{ url('/dashboard') }}" style="
                         background:#1B1717;
-                        color:#D9534F;
+                        color:#6495ED;
                         border-radius:10px;                      
                         margin: 20px;
                         padding-left:10px;
@@ -53,7 +51,7 @@
                         <a href="{{ route('login') }}" 
                         style="
                         background:#1B1717;
-                        color:#D9534F;
+                        color:#6495ED;
                         border-radius:10px;                      
                         margin: 20px;
                         padding-left:10px;
@@ -71,7 +69,7 @@
                             <a href="{{ route('register') }}"
                         style="
                         background:#1B1717;
-                        color:#D9534F;
+                        color:#6495ED;
                         border-radius:10px;
                         margin: 20px;
                         padding-left:10px;

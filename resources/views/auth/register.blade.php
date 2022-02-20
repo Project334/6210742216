@@ -1,15 +1,14 @@
 <body style="background-size: 100%;
-            background: linear-gradient(to bottom, #FFAD60 0%,#D9534F 100%);">
-<title>Laravel</title>
+            background: linear-gradient(to bottom,#DCDCDC 0%,#6495ED 100%);">
+<title>Portfoliol</title>
     <div style=" 
             justify-content: center;
             align-items: center;
             text-align: center;
             min-height: 100%;">
-        <a href="http://127.0.0.1:8000/"><img src="https://media.baamboozle.com/uploads/images/291632/1619760072_114659_gif-url.gif" style="margin:15px" width="150" height="150"></a>
+        <a href="http://127.0.0.1:8000/"><img src="https://static.wixstatic.com/media/1ead07_8176954813a14895b056e6834b7bd253~mv2.gif"  width="300" height="200"></a>
 
-        <form style = "background-color: #FFEEAD;
-
+        <form style = "background-color: #DCDCDC;
                        border-radius: 10px;
                        margin: auto;
                        margin-bottom: 30px;
@@ -78,7 +77,7 @@
                 </a>
                 <button style="
                         background:#1B1717;
-                        color:#D9534F;
+                        color:#6495ED;
                         border-radius:10px;                      
                         margin-Left: 20px;
                         padding-left:10px;

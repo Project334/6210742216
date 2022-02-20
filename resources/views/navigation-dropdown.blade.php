@@ -7,21 +7,11 @@
                 <!-- Logo -->
                 <div class="flex-shrink-0 flex items-center">
                     <a href="{{ route('dashboard') }}">
-                    <img src="https://media.baamboozle.com/uploads/images/291632/1619760072_114659_gif-url.gif" width="50" height="50">
+                    <img src="https://static.wixstatic.com/media/1ead07_8176954813a14895b056e6834b7bd253~mv2.gif" width="200" height="200">
                     </a>
                 </div>
 
                 <!-- Navigation Links -->
-                <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
-                    <a href="{{ route('dashboard') }}" :active="request()->routeIs('dashboard')" style="margin-top:7%;
-                    font-weight: 800;
-                    font-size: 32px;
-                    font-family: 'Courier New', monospace;
-                    color:#ffffff"
-                    >
-                        {{ __('Dashboard') }}
-                    </a>
-                </div>
             </div>
 
             <!-- Settings Dropdown -->

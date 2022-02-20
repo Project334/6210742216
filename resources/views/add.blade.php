@@ -46,7 +46,7 @@
                         font-weight: 1000;
                         font-size:20px;
                         text-shadow: 1px 1px 1px #FFFFFF;
-                        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);" class="bg-yellow-400">Add Task</button>
+                        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);" class="bg-yellow-400">Add Comment</button>
                     </div>
                     {{ csrf_field() }}
                 </form>

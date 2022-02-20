@@ -28,7 +28,71 @@
                         margin-bottom:10px;
                         font-weight: 500;
                         font-size:20px;
-                        ">My name is Chonlakorn</div>
+                        ">Date of Birth : 30 October 2000</div>
+                <div style="font-family: 'sans-serif', monospace;
+                        margin-top: 5px;
+                        margin-left: 12px;
+                        margin-bottom:10px;
+                        font-weight: 500;
+                        font-size:20px;
+                        ">Age : 21</div>
+                <div style="font-family: 'sans-serif', monospace;
+                        margin-top: 5px;
+                        margin-left: 12px;
+                        margin-bottom:10px;
+                        font-weight: 500;
+                        font-size:20px;
+                        ">Nationality : Thai</div>
+                <div style="font-family: 'sans-serif', monospace;
+                        margin-top: 5px;
+                        margin-left: 12px;
+                        margin-bottom:10px;
+                        font-weight: 500;
+                        font-size:20px;
+                        ">Height/Weight : 176/65</div>
+            </div>
+        </div>
+    </div>
+    <div class="py-12">
+        <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
+            <div style= "background-color:#87CEFA;" class="overflow-hidden shadow-xl sm:rounded-lg p-5">
+                <div class="flex">
+                    <div style="font-family: 'sans-serif', monospace;
+                        margin-top: 5px;
+                        margin-left: 10px;
+                        margin-bottom:10px;
+                        font-weight: 1000;
+                        font-size:28px;
+                        ">Contact</div>
+                </div>
+                <div style="font-family: 'sans-serif', monospace;
+                        margin-top: 5px;
+                        margin-left: 12px;
+                        margin-bottom:10px;
+                        font-weight: 500;
+                        font-size:20px;
+                        ">Email : zeroegoo_ter@hotmail.com</div>
+                <div style="font-family: 'sans-serif', monospace;
+                        margin-top: 5px;
+                        margin-left: 12px;
+                        margin-bottom:10px;
+                        font-weight: 500;
+                        font-size:20px;
+                        ">Phone : (+66)979929218</div>
+                <div style="font-family: 'sans-serif', monospace;
+                        margin-top: 5px;
+                        margin-left: 12px;
+                        margin-bottom:10px;
+                        font-weight: 500;
+                        font-size:20px;
+                        ">Line : zeroegoo</div>
+                <div style="font-family: 'sans-serif', monospace;
+                        margin-top: 5px;
+                        margin-left: 12px;
+                        margin-bottom:10px;
+                        font-weight: 500;
+                        font-size:20px;
+                        ">Address : 300/114, Moo 5, Phichai Subdistrict, Mueang Lampang District, Lampang Province</div>
             </div>
         </div>
     </div>
@@ -44,11 +108,11 @@
                         font-size:28px;
                         ">Education</div>
                 </div>
-                <div style="font-family: 'sans-serif', monospace;
+                <div style="font-family: 'Courier New', monospace;
                         margin-top: 5px;
                         margin-left: 12px;
                         margin-bottom:10px;
-                        font-weight: 500;
+                        font-weight: 1000;
                         font-size:20px;
                         ">2017-2019 > High school of Pre-Engineering</div>
                 <div style="font-family: 'sans-serif', monospace;
@@ -58,13 +122,13 @@
                         font-weight: 800;
                         font-size:20px;
                         ">College of Integrated Science And Technology</div>
-                <div style="font-family: 'sans-serif', monospace;
+                <div style="font-family: 'Courier New', monospace;
                         margin-top: 5px;
                         margin-left: 12px;
                         margin-bottom:10px;
-                        font-weight: 500;
+                        font-weight: 1000;
                         font-size:20px;
-                        ">2019-2021 > Bachelor of Software Engineering</div>
+                        ">2019-2021 > Bachelor of Software Engineering </div>
                 <div style="font-family: 'sans-serif', monospace;
                         margin-top: 5px;
                         margin-left: 132px;
@@ -87,25 +151,25 @@
                         font-size:28px;
                         ">Skill</div>
                 </div>
-                <div style="font-family: 'sans-serif', monospace;
+                <div style="font-family: 'Courier New', monospace;
                         margin-top: 5px;
                         margin-left: 12px;
                         margin-bottom:10px;
-                        font-weight: 500;
+                        font-weight: 1000;
                         font-size:20px;
                         ">- Math</div>
-                <div style="font-family: 'sans-serif', monospace;
+                <div style="font-family: 'Courier New', monospace;
                         margin-top: 5px;
                         margin-left: 12px;
                         margin-bottom:10px;
-                        font-weight: 500;
+                        font-weight: 1000;
                         font-size:20px;
                         ">- Computer Skills</div>
-                <div style="font-family: 'sans-serif', monospace;
+                <div style="font-family: 'Courier New', monospace;
                         margin-top: 5px;
                         margin-left: 12px;
                         margin-bottom:10px;
-                        font-weight: 500;
+                        font-weight: 1000;
                         font-size:20px;
                         ">- Programming </div>
             </div>
